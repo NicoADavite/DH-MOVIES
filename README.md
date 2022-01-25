@@ -1,5 +1,3 @@
-��#� �D�H�-�M�O�V�I�E�S�
-�
-�
+DH - MOVIES
 
 Ejercitación de CRUD con base de datos y relaciones entre tablas
